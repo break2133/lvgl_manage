@@ -8,7 +8,7 @@ static sys_para_t sys_para = {
 
 /**
  * @brief Regrest Obj Create CB.
- */
+ */ 
 static const obj_create obj_regrest[OBJ_TYPE_ALWAYS_LAST] = {
     {.type = OBJ_TYPE_SCREEN, .obj_create_cb = lv_obj_create},
     {.type = OBJ_TYPE_OBJ, .obj_create_cb = lv_obj_create},

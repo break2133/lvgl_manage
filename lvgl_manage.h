@@ -4,7 +4,7 @@
 
 #include "lvgl.h"
 #include "example_main.h"
-
+ 
 #define SYS_LANGUAGE_ENGLISH    0
 #define SYS_LANGUAGE_CHINESE    1
 
